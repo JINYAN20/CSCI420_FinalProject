@@ -14,7 +14,7 @@ The primary write-up is in `Final Report-CSCI420 LLM.pdf`, which addresses Exerc
 
 ### `Final Report-CSCI420 LLM.pdf`
 - Full written report answering Exercises 1.1 to 1.6
-- Exercise 1.1 is a sperate question
+- Exercise 1.1 is a spearate question
 - Exercise 1.3-1.6: describe the task motivation, model structure, dataset, fine-tuning process, evaluation methods, and results
 
 ### `gpt2FineTune.ipynb`
